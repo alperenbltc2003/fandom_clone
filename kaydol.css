@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    padding:0;
+}
+html{
+    margin:0;
+    padding:0;
+}
+#main3{
+    background-image: url("kaydol.PNG");
+    height:600px;
+    width:450px;
+    position:relative;
+    left:600px;
+    top: 200px;
+}
+.inp5{
+    position:absolute;
+    border:solid rgba(128, 128, 128, 0.2) 0.1px;
+    display: inline-block;
+    margin: 0;
+    padding:0;
+    height:45px;
+    width: 260px;
+}
+#girisbtn2{
+    position:absolute;
+    display:inline-block;
+    margin: 0;
+    padding:0;
+    background-color: rgba(0, 0, 0, 0);
+    width: 385px;
+    height: 45px;
+    top:503px;
+    left:30px;
+
+}
+#inp3{
+    top:173px;
+    left:28px;
+    width: 370px;
+}
+#inp4{
+    top:270px;
+    left:25px;
+    width: 370px;
+}
+#sıra1{
+    position: relative;
+    left: 1200px;
+    bottom: 500px;
+}

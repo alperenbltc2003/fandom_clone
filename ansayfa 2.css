@@ -1,0 +1,226 @@
+html{
+    margin:0;
+    padding:0;
+}
+#grafik {
+    position: relative;
+
+    left: 100px;
+    top: 200px;
+
+    z-index: -1;
+}
+#bnbtl{
+    position: relative;
+    top: -10px;
+    right: 870px;
+}
+#bitcointl{
+    position: relative;
+    top: 18px;
+    left: 363px;
+}
+#busdtl{
+    position: relative;
+    top: 24px;
+    left: 363px;
+}
+#etheriumtl{
+    position: relative;
+    top: 32px;
+    left: 363px;
+}
+#bnbusd{
+    position: relative;
+    bottom: 185px;
+    left: 780px;
+}
+#bitcoinusd{
+    position: relative;
+    bottom: 158px;
+    left: 780px;
+}
+#busdusd{
+    position: relative;
+    bottom: 150px;
+    left: 780px;
+}
+#etheriumusd{
+    position: relative;
+    bottom: 144px;
+    left: 780px;
+}
+
+body{
+    background-image:url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+}
+#main{
+    position: relative;
+    margin: 0;;
+    padding: 0;
+    background-color: black;;
+    display: block;
+    top: 0px;
+    height: 50px;
+
+}
+.menubtn{
+    display: inline-block;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    width: 16.4%;
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    line-height: 50px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    background-color:black;
+    text-align: center;
+}
+a:hover{
+    color:black;
+    background-color: white;
+}
+#gamedrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:330px;
+    top:50px;
+}
+#gameid:hover+#gamedrop,#gamedrop:hover{
+    display: inline-block;
+
+}
+.gamedropa{
+    display: block;
+    height:50px;
+    line-height: 50px;
+}
+
+makaleler
+
+#makaledrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:380px;
+    top:50px;
+}
+#makaleid:hover+#makaledrop,#makaledrop:hover{
+    display: inline-block;
+
+}
+.makaledropa{
+    display: block;
+    height:50px;
+    line-height: 50px;
+}
+#makaledrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:620px;
+    top:50px;
+}
+
+UYELİK
+
+#uyelikdrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:380px;
+    top:50px;
+}
+#uyelikid:hover+#uyelikdrop,#uyelikdrop:hover{
+    display: inline-block;
+
+}
+.uyelikdropa{
+    display: block;
+    height:50px;
+    line-height: 50px;
+}
+#uyelikdrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:910px;
+    top:50px;
+}
+
+FİLMLER
+
+#filmdrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:380px;
+    top:50px;
+}
+#filmid:hover+#filmdrop,#filmdrop:hover{
+    display: inline-block;
+
+}
+.filmdropa{
+    display: block;
+    height:50px;
+    line-height: 50px;
+}
+#filmdrop{
+    position:absolute;
+    display:none;
+    background-color: black;
+    width: 200px;
+    left:1190px;
+    top:50px;
+}
+#baslik{
+    font-size: 70px;
+    font-style:italic;
+    color: rgba(155, 155, 17, 0.671);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inputlar{
+    border: solid black 2px;
+}
+
+#anasayfaresim{
+    position: absolute;
+    display: inline-block;
+    top:150px;
+    left:1100px;
+    z-index: -1;
+}
+#satınalbutonjpg{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+    z-index: -1;
+}
+#satınalbutonu{
+    position:absolute;
+    display:inline-block;
+    margin: 0;
+    padding:0;
+    background-color:  rgba(0, 0, 0, 0);
+    width: 200px;
+    height: 43px;
+    bottom: 100px;
+    left: 100px;
+}

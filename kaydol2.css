@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    padding:0;
+}
+html{
+    margin:0;
+    padding:0;
+}
+#main4{
+    background-image: url("e\ posta\ dogrulama.PNG");
+    height:600px;
+    width:450px;
+    position:relative;
+    left:600px;
+    top: 200px;
+    background-repeat: no-repeat;
+}
+.inp5{
+    position:absolute;
+    border:solid rgba(128, 128, 128, 0.2) 0.1px;
+    display: inline-block;
+    margin: 0;
+    padding:0;
+    height:45px;
+    width: 260px;
+}
+#girisbtn3{
+    position:absolute;
+    display:inline-block;
+    margin: 0;
+    padding:0;
+    background-color: rgba(0, 0, 0, 0);
+    width: 385px;
+    height: 45px;
+    top:248px;
+    left:25px;
+
+}
+#inp3{
+    top:160px;
+    left:25px;
+    width: 380px;
+}
+#inp4{
+    top:270px;
+    left:25px;
+    width: 370px;
+}
+#sıra2{
+    position: relative;
+    left: 1200px;
+    bottom: 500px;
+}
